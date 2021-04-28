@@ -25,7 +25,7 @@
 <a href="https://fb.com/prashant.grv.1" ><img src="https://github.com/gravityfalls404/gravityfalls404/blob/main/icons/facebook%20.svg" height="30" width="40" ></a>&nbsp;&nbsp;
 <a href="https://instagram.com/gravityfalls60"><img src="https://github.com/gravityfalls404/gravityfalls404/blob/main/icons/instagram.svg" height="30" width="40" ></a>&nbsp;&nbsp;
 <a href="https://medium.com/@prashantgaurav_85928" ><img src="https://github.com/gravityfalls404/gravityfalls404/blob/main/icons/medium.svg" height="30" width="40" ></a>&nbsp;&nbsp;
-<a href="https://discord.gg/gravityfalls#7884"><img src="https://github.com/gravityfalls404/gravityfalls404/blob/main/icons/discord.svg" height="30" width="40" ></a>&nbsp;&nbsp;
+<a href="https://discord.gg/KMNaJPuq"><img src="https://github.com/gravityfalls404/gravityfalls404/blob/main/icons/discord.svg" height="30" width="40" ></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
