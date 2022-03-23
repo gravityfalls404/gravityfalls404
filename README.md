@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **pg711700@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10JbF0c45-6EdGejGVTTUNusjS36n8D1D/view?usp=sharing](https://drive.google.com/file/d/10JbF0c45-6EdGejGVTTUNusjS36n8D1D/view?usp=sharing)
 
 - ⚡ Fun fact **I Spend my weekdays with my laptop and weekends with myself.**
 
