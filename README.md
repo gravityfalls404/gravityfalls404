@@ -1,4 +1,6 @@
-![Header](https://github.com/gravityfalls404/gravityfalls404/blob/main/heads.gif)
+<p align="center">
+  <img src="https://image.spreadshirtmedia.net/image-server/v1/compositions/T949A2PA2009PT25X1Y13D151661905W5792H4230/views/3,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/eat-sleep-debug-repeat-mug.jpg" alt="Sublime's custom image"/>
+</p>
 <h1 align="center">Hi 👋, I'm Prashant Gaurav</h1>
 <h3 align="center">AI enthusiast | ASU Grad | Lifelong Learner </h3>
 
