@@ -1,20 +1,20 @@
 ![Header](https://github.com/gravityfalls404/gravityfalls404/blob/main/heads.gif)
 <h1 align="center">Hi 👋, I'm Prashant Gaurav</h1>
-<h3 align="center">A Zealous Software Developer from India</h3>
+<h3 align="center">AI enthusiast | ASU Grad | Lifelong Learner </h3>
 
 
-- 🔭 I’m currently working on [Discord Bot](https://github.com/users/gravityfalls404/projects/2)
+- 🔭 Currently working towards a Master's degree
 
-- 🌱 I’m currently learning **Apache Flink, Apache Beam, Aws KDA**
+- 🌱 I’m currently learning **Transformers, Document Cognition, AWS**
 
-- 🏫I'm Currently Stuying **Computer Engineering at NSIT, New Delhi**
+- 🏫I'm Currently Stuying **Computer Science Grad ASU, Arizona**
 
-- 💬 Ask me about **Python, Tensorflow, Discord, AWS SAM/Amplify**
+- 💬 Ask me about **Natural Language Processing, Generative AI, Building Scalable Microservices**
 
-- 📫 How to reach me **pg711700@gmail.com**
+- 📫 How to reach me **prashant.grv07@gmail.com**
 
 
-- ⚡ Fun fact **I Spend my weekdays with my laptop and weekends with myself.**
+- ⚡ Fun fact **I Spend my weekdays with my laptop as weekends are for Formula 1.**
 
 <h3 align="left">Connect with me:</h3>
 <p align='center'>
