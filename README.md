@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Gaurav</h1>
 <h3 align="center">AI enthusiast | ASU Grad | Lifelong Learner </h3>
 
+- 🤖 Building Agents
 
 - 🔭 Currently working towards a Master's degree
 
